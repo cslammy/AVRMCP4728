@@ -1,10 +1,10 @@
 /*
  * mcp4728-test.c
  * https://www.microchip.com/wwwproducts/en/MCP4728
- * Created: 4/2/2021 10:39:14 AM  UNTESTED!
- SEE PROJECTS FOR WORKING CODE....THIS LIBRARY IS DERIVED FROM THAT.
- * Author : clamm
- UNTESTED AS OF 4-5-21
+ * Created: 4/2/2021 10:39:14 AM  
+
+ * Author : audioDIWHY
+Sample code for 4728 library
  */ 
 
 #include <avr/io.h>
